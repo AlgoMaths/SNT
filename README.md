@@ -15,7 +15,7 @@
 Les `repères historiques`, `l'informatique` et `les langages de programmation` sont des notions transversales du programme de SNT, elles seront donc traitées tout au long de l'année au travers des 7 thématiques suivantes :
 
 | Thème | Titre | nbre de semaines |
-| ------------- |:-------------:| :-----: |
+| :------------- |:-------------:| :-----: |
 |  #1 | `Internet` | 4  |
 |  #2 | `Le web` | 4,5 |
 |  #3 | `Les réseaux sociaux` | 4,5 |
@@ -28,7 +28,13 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 ## **2. Progression**
 
 | Chapitre | Titre | Contenus |
-| ------------- |:-------------:| :-----: |
-| Chapitre 1 | `Informatique et numérique` | 1. Machines & sytèmes - 2. Les algorithmes - 3. Les langages de programmation|
-| Chapitre 2 | `Les réseaux sociaux - Analyse sociologique` | 2 semaines |
-| Chapitre  | `Les réseaux sociaux - Analyse sociologique` | 2 semaines |
+| :------------- |:-------------:| :-----: |
+| Chapitre 1 | `Informatique et numérique` | 1. Repères historiques 2. Machines & sytèmes - 3. Les algorithmes - 4. Programmation et le langage Python |
+| Chapitre 2 | `Les réseaux sociaux - Partie 1` | 1. Repères historiques 2. Les différents réseaux sociaux  - 3. Le petit monde |
+| Chapitre 3 | `Internet - Partie 1` | 1. Repères historiques 2. Protocole TCP/IP - 3. Le principe du routage |
+| Chapitre 4 | `Les données structurées et leur traitement - Partie 1` | 1. Repères historiques 2. Les différents types de données structurées - 3. Le traitement des données |
+| Chapitre 5 | `Le web - Partie 1` | 1. Repères historiques 2. Les URL - 3. Le langage HTML et CSS |
+| Chapitre 6 | `La photographie numérique - Partie 1` | 1. Repères historiques 2. Les images et le capteur - 3. Métadonnées EXIF |
+| Chapitre 7 | `Internet - Partie 1` | 1. Repères historiques 2. Protocole TCP/IP - 3. Le principe du routage |
+
+
