@@ -29,6 +29,6 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 
 | Chapitre | Titre | Contenus |
 | ------------- |:-------------:| :-----: |
-| Chapitre 1 | `Informatique et numérique` | 1. Machines & sytèmes 2. Les algorithmes 3. Les langages de programmation|
+| Chapitre 1 | `Informatique et numérique` | ..* Machines & sytèmes ..* Les algorithmes ..* Les langages de programmation|
 | Chapitre 2 | `Les réseaux sociaux - Analyse sociologique` | 2 semaines |
 | Chapitre  | `Les réseaux sociaux - Analyse sociologique` | 2 semaines |
