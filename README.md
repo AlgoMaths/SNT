@@ -14,6 +14,7 @@
 
 | Thème #1 | `Informatique et numérique` | 2 semaines |
 | ------------- |:-------------:| -----: |
+| Thème #1 | `Informatique et numérique` | 2 semaines |
 | Thème #2 | `Internet` | 4 semaines |
 | Thème #3 | `Le web` | 4 semaines |
 | Thème #4 | `Les réseaux sociaux` | 4 semaines |
