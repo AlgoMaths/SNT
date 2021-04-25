@@ -12,18 +12,22 @@
 
 ## **1. Thèmatiques du programme**
 
-Les `repères historiques`, `l'informatique` et `les langages de programmation` sont des notions transversales du programme de SNT, ils seront donc traités tout au long de l'année au travers des thématiques suivantes :
+Les `repères historiques`, `l'informatique` et `les langages de programmation` sont des notions transversales du programme de SNT, elles seront donc traitées tout au long de l'année au travers des 7 thématiques suivantes :
 
 | Thème | Titre | nbre de semaines |
 | ------------- |:-------------:| :-----: |
-| Thème #1 | `Informatique et numérique` | 2 semaines |
-| Thème #2 | `Internet` | 4 semaines |
-| Thème #3 | `Le web` | 4 semaines |
-| Thème #4 | `Les réseaux sociaux` | 4 semaines |
-| Thème #5 | `Les données structurées et leur traitement` | 4 semaines |
-| Thème #6 | `Localisation, cartographie et mobilité` | 4 semaines |
-| Thème #7 | `Les objets connectés` | 4 semaines |
-| Thème #8 | `La photographie numérique` | 4 semaines |     
+| Thème #1 | `Internet` | 4 semaines |
+| Thème #2 | `Le web` | 4 semaines |
+| Thème #3 | `Les réseaux sociaux` | 4 semaines |
+| Thème #4 | `Les données structurées et leur traitement` | 4 semaines |
+| Thème #5 | `Localisation, cartographie et mobilité` | 4 semaines |
+| Thème #6 | `Les objets connectés` | 4 semaines |
+| Thème #7 | `La photographie numérique` | 4 semaines |     
 
 
 ## **2. Progression**
+
+| Chapitre | Titre | nbre de semaines |
+| ------------- |:-------------:| :-----: |
+| Chapitre #1 | `Informatique et numérique` | 3 semaines |
+| Chapitre #1 | `Informatique et numérique` | 2 semaines |
