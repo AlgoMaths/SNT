@@ -14,12 +14,12 @@
 
 | Thème 1       | `Informatique et numérique`            | 2 semaines  |
 | ------------- |:-------------:| -----:|
-| Thème 2       | right-aligned | $1600 |
-| Thème 3      | centered      |   $12 |
-| Thème 4      | are neat      |    $1 |
-| Thème 5 | are neat      |    $1 |
-| `Théme 6`| are neat      |    $1 |
-| `Théme 7`| are neat      |    $1 |
-| `Théme 8`| are neat      |    $1 |
+| Thème 2 | `Informatique et numérique` | 3 semaines |
+| Thème 3 | `Informatique et numérique` | 3 semaines |
+| Thème 4 | `Informatique et numérique` | 3 semaines |
+| Thème 5 | `Informatique et numérique` | 3 semaines |
+| Thème 6 | `Informatique et numérique` | 3 semaines |
+| Thème 7 | `Informatique et numérique` | 3 semaines |
+| Thème 8 | `Informatique et numérique` | 3 semaines |     
 
 
