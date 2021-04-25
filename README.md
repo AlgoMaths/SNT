@@ -10,8 +10,9 @@
 <img src="https://github.com/AlgoMaths/SNT/blob/main/SNT_logo.png" alt="SNT" width="300"> 
 </p>
 
-## **1. Éléments du programme**
+## **1. Thèmatiques du programme**
 
+Les `repères historiques`, `l'informatique` et `les langages de programmation` sont des notions transversales du programme de SNT, ils seront donc traités tout au long de l'année au travers des thématiques suivantes :
 
 | Thème | Titre | nbre de semaines |
 | ------------- |:-------------:| :-----: |
