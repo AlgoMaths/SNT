@@ -53,7 +53,7 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 |  #1 | `Internet` | 4  |
 |  #2 | `Le web` | 4,5 |
 |  #3 | `Les réseaux sociaux` | 4,5 |
-|  #4 | `Les données structurées et leur traitement` | 4,5 |
+|  #4 | `Les données structurées et leur traitement` | https://youtu.be/N6XJXkeW5OE |
 |  #5 | `Localisation, cartographie et mobilité` | 4,5 |
 |  #6 | `Les objets connectés` | 4,5 |
 |  #7 | `La photographie numérique` | 4,5 |     
