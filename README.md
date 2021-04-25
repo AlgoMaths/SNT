@@ -50,10 +50,10 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 
 | Thème | Titre | Repères historiques | La hotline |
 | :-------------: |:-------------:| :-----: |:-----: |
-|  #1 | `Internet` | https://youtu.be/5ee6W1ODvFU  |
-|  #2 | `Le web` | https://youtu.be/YVn7jrDYjUQ |
-|  #3 | `Les réseaux sociaux` | https://youtu.be/aA_NZdasOg4 |
-|  #4 | `Les données structurées et leur traitement` | https://youtu.be/N6XJXkeW5OE |
-|  #5 | `Localisation, cartographie et mobilité` | https://youtu.be/XDsDVqCbBKk |
-|  #6 | `Les objets connectés` | https://youtu.be/mT2X559Wy_Q |
-|  #7 | `La photographie numérique` | https://youtu.be/CtwuQynmzIA |     
+|  #1 | `Internet` | https://youtu.be/5ee6W1ODvFU  | |
+|  #2 | `Le web` | https://youtu.be/YVn7jrDYjUQ | |
+|  #3 | `Les réseaux sociaux` | https://youtu.be/aA_NZdasOg4 | |
+|  #4 | `Les données structurées et leur traitement` | https://youtu.be/N6XJXkeW5OE | https://youtu.be/IJJgcZ2DEs0 |
+|  #5 | `Localisation, cartographie et mobilité` | https://youtu.be/XDsDVqCbBKk | |
+|  #6 | `Les objets connectés` | https://youtu.be/mT2X559Wy_Q | |
+|  #7 | `La photographie numérique` | https://youtu.be/CtwuQynmzIA |   |   
