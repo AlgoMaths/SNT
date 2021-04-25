@@ -12,7 +12,7 @@
 
 <h2 align="center" style="font-size:40px"> Éléments du programme </h2> 
 
-| Thème #1 | `Informatique et numérique` | 2 semaines |
+
 | ------------- |:-------------:| -----: |
 | Thème #1 | `Informatique et numérique` | 2 semaines |
 | Thème #2 | `Internet` | 4 semaines |
