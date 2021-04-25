@@ -44,3 +44,16 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 | Chap 14 | `La photographie numérique 2/2` | 1. Traitement d'image - 2. Algorithmes dans les appareils photo numériques |
 | Chap 15 | `Les objets connectés 2/2` | 1. Les actionneurs et capteurs - 2. Commande et acquisition de données - 3. Algorithmes et programmes |
 
+## **3. Les outils**
+
+## **4. Les vidéos**
+
+| Thème | Titre | Repères historiques | La hotline |
+| :-------------: |:-------------:| :-----: |:-----: |
+|  #1 | `Internet` | 4  |
+|  #2 | `Le web` | 4,5 |
+|  #3 | `Les réseaux sociaux` | 4,5 |
+|  #4 | `Les données structurées et leur traitement` | 4,5 |
+|  #5 | `Localisation, cartographie et mobilité` | 4,5 |
+|  #6 | `Les objets connectés` | 4,5 |
+|  #7 | `La photographie numérique` | 4,5 |     
