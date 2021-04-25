@@ -1,8 +1,4 @@
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
 
 <h1 align="center" style="font-size:40px"> SNT </h1> 
 <h4 align="center" style="font-size:40px"> Depuis la rentrée 2019 et la réforme du Baccalauréat, les élèves des classes de Seconde découvrent un nouvel enseignement, appelé   </h4> 
