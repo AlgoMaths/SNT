@@ -1,7 +1,6 @@
 <h1 align="center" style="font-size:40px"> SNT </h1> 
 <p style="text-align:center">
-<a href= "https://github.com/AlgoMaths/SNT/blob/main/SNT_logo.png"> 
-<img src="https://github.com/AlgoMaths/SNT/blob/main/SNT_logo.png" alt="MATPLOTLIB" width="300" > </a></p>
+"<a href= "https://github.com/AlgoMaths/SNT/blob/main/SNT_logo.png"> "
+<img src="https://github.com/AlgoMaths/SNT/blob/main/SNT_logo.png" alt="SNT" width="300" > </a></p>
 
-# SNT
-![le logo](https://github.com/AlgoMaths/SNT/blob/main/SNT_logo.png)
+
