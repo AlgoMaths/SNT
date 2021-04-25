@@ -16,18 +16,19 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 
 | Thème | Titre | nbre de semaines |
 | ------------- |:-------------:| :-----: |
-| Thème #1 | `Internet` | 4 semaines |
-| Thème #2 | `Le web` | 4 semaines |
-| Thème #3 | `Les réseaux sociaux` | 4 semaines |
-| Thème #4 | `Les données structurées et leur traitement` | 4 semaines |
-| Thème #5 | `Localisation, cartographie et mobilité` | 4 semaines |
-| Thème #6 | `Les objets connectés` | 4 semaines |
-| Thème #7 | `La photographie numérique` | 4 semaines |     
+|  #1 | `Internet` | 4  |
+|  #2 | `Le web` | 4,5 |
+|  #3 | `Les réseaux sociaux` | 4,5 |
+|  #4 | `Les données structurées et leur traitement` | 4,5 |
+|  #5 | `Localisation, cartographie et mobilité` | 4,5 |
+|  #6 | `Les objets connectés` | 4,5 |
+|  #7 | `La photographie numérique` | 4,5 |     
 
 
 ## **2. Progression**
 
-| Chapitre | Titre | nbre de semaines |
+| Chapitre | Titre | Contenus |
 | ------------- |:-------------:| :-----: |
-| Chapitre #1 | `Informatique et numérique` | 3 semaines |
-| Chapitre #1 | `Informatique et numérique` | 2 semaines |
+| Chapitre 1 | `Informatique et numérique` | 1. Machines & sytèmes 2. Les algorithmes 3. Les langages de programmation|
+| Chapitre 2 | `Les réseaux sociaux - Analyse sociologique` | 2 semaines |
+| Chapitre  | `Les réseaux sociaux - Analyse sociologique` | 2 semaines |
