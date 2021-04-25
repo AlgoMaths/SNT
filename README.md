@@ -30,13 +30,13 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 | Chapitre | Titre | Contenus |
 | :-------------: |:-------------:| :-----: |
 | Chap 1 | `Informatique et numérique` | 1. Repères historiques - 2. Machines & sytèmes - 3. Les algorithmes - 4. Programmation et le langage Python |
-| Chap 2 | `Les réseaux sociaux - Partie 1` | 1. Repères historiques - 2. Les différents réseaux sociaux  - 3. Le petit monde |
-| Chap 3 | `Internet - Partie 1` | 1. Repères historiques - 2. Protocole TCP/IP - 3. Le principe du routage |
-| Chap 4 | `Les données structurées  - Partie 1` | 1. Repères historiques - 2. Les différents types de données structurées - 3. Le traitement des données |
-| Chap 5 | `Le web - Partie 1` | 1. Repères historiques - 2. Les URL - 3. Le langage HTML et CSS |
-| Chap 6 | `La photographie numérique - Partie 1` | 1. Repères historiques - 2. Les images et le capteur - 3. Métadonnées EXIF |
-| Chap 7 | `Localisation & cartographie - Partie 1` | 1. Repères historiques - 2. le GPS et cartes numériques - 3. Le protocole NMEA 0183 |
-| Chap 8 | `Les objets connectés - Partie 1` | 1. Repères historiques 2. Systèmes informatiques embarqués - 3. Interface homme-machine |
-| Chap 9 | `Les réseaux sociaux - Partie 2` | 1. Introduction aux graphes - 2. Identité numérique  - 3. Cyberviolence |
-| Chap 10 | `Internet - Partie 2` | 1. Le serveur DNS - 2. Le pair to pair  - 3. La neutralité du net |
-| Chap 11 | `Les données structurées  - Partie 2` | 1. Repères historiques - 2. Les différents types de données structurées - 3. Le traitement des données |
+| Chap 2 | `Les réseaux sociaux - 1/2` | 1. Repères historiques - 2. Les différents réseaux sociaux  - 3. Le petit monde |
+| Chap 3 | `Internet - 1/2` | 1. Repères historiques - 2. Protocole TCP/IP - 3. Le principe du routage |
+| Chap 4 | `Les données structurées  - 1/2` | 1. Repères historiques - 2. Les différents types de données structurées - 3. Le traitement des données |
+| Chap 5 | `Le web - 1/2` | 1. Repères historiques - 2. Les URL - 3. Le langage HTML et CSS |
+| Chap 6 | `La photographie numérique - 1/2` | 1. Repères historiques - 2. Les images et le capteur - 3. Métadonnées EXIF |
+| Chap 7 | `Localisation & cartographie - 1/2` | 1. Repères historiques - 2. le GPS et cartes numériques - 3. Le protocole NMEA 0183 |
+| Chap 8 | `Les objets connectés - 1/2` | 1. Repères historiques 2. Systèmes informatiques embarqués - 3. Interface homme-machine |
+| Chap 9 | `Les réseaux sociaux - 2/2` | 1. Introduction aux graphes - 2. Identité numérique  - 3. Cyberviolence |
+| Chap 10 | `Internet - 2/2` | 1. Le serveur DNS - 2. Le pair to pair  - 3. La neutralité du net |
+| Chap 11 | `Les données structurées  - 2/2` | 1. Repères historiques - 2. Les différents types de données structurées - 3. Le traitement des données |
