@@ -32,9 +32,11 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 | Chapitre 1 | `Informatique et numérique` | 1. Repères historiques - 2. Machines & sytèmes - 3. Les algorithmes - 4. Programmation et le langage Python |
 | Chapitre 2 | `Les réseaux sociaux - Partie 1` | 1. Repères historiques - 2. Les différents réseaux sociaux  - 3. Le petit monde |
 | Chapitre 3 | `Internet - Partie 1` | 1. Repères historiques - 2. Protocole TCP/IP - 3. Le principe du routage |
-| Chapitre 4 | `Les données structurées et leur traitement - Partie 1` | 1. Repères historiques - 2. Les différents types de données structurées - 3. Le traitement des données |
+| Chapitre 4 | `Les données structurées  - Partie 1` | 1. Repères historiques - 2. Les différents types de données structurées - 3. Le traitement des données |
 | Chapitre 5 | `Le web - Partie 1` | 1. Repères historiques - 2. Les URL - 3. Le langage HTML et CSS |
 | Chapitre 6 | `La photographie numérique - Partie 1` | 1. Repères historiques - 2. Les images et le capteur - 3. Métadonnées EXIF |
-| Chapitre 7 | `Internet - Partie 1` | 1. Repères historiques - 2. Protocole TCP/IP - 3. Le principe du routage |
-
-
+| Chapitre 7 | `Localisation & cartographie - Partie 1` | 1. Repères historiques - 2. le GPS et cartes numériques - 3. Le protocole NMEA 0183 |
+| Chapitre 8 | `Les objets connectés - Partie 1` | 1. Repères historiques 2. Systèmes informatiques embarqués - 3. Interface homme-machine |
+| Chapitre 9 | `Les réseaux sociaux - Partie 2` | 1. Introduction aux graphes - 2. Identité numérique  - 3. Cyberviolence |
+| Chapitre 10 | `Internet - Partie 2` | 1. Le serveur DNS - 2. Le pair to pair  - 3. La neutralité du net |
+| Chapitre 11 | `Les données structurées  - Partie 1` | 1. Repères historiques - 2. Les différents types de données structurées - 3. Le traitement des données |
