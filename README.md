@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size:40px"> SNT </h1> 
 <h4 align="center" style="font-size:40px"> Depuis la rentrée 2019 et la réforme du Baccalauréat, les élèves des classes de Seconde découvrent un nouvel enseignement, appelé   </h4> 
-`Sciences Numériques et Technologie`
+`Sciences Numériques et Technologie`|
 --- |
 <p align="center"> 
 <img src="https://github.com/AlgoMaths/SNT/blob/main/SNT_logo.png" alt="SNT" width="300"> 
