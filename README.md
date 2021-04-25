@@ -10,7 +10,7 @@
 <img src="https://github.com/AlgoMaths/SNT/blob/main/SNT_logo.png" alt="SNT" width="300"> 
 </p>
 
-<h2 align="center" style="font-size:40px"> Éléments du programme </h2> 
+1. Éléments du programme
 
 | Thème | Titre | nbre de semaines |
 | ------------- |:-------------:| :-----: |
