@@ -10,7 +10,7 @@
 <img src="https://github.com/AlgoMaths/SNT/blob/main/SNT_logo.png" alt="SNT" width="300"> 
 </p>
 
-## 1. Éléments du programme
+## **1. Éléments du programme**
 
 
 | Thème | Titre | nbre de semaines |
@@ -25,3 +25,4 @@
 | Thème #8 | `La photographie numérique` | 4 semaines |     
 
 
+## **2. Progression**
