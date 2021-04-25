@@ -12,12 +12,12 @@
 
 <h2 align="center" style="font-size:40px"> Éléments du programme </h2> 
 
-| `Théme 1`       | `Informatique et numérique`            | 2 semaines  |
+| Thème 1       | `Informatique et numérique`            | 2 semaines  |
 | ------------- |:-------------:| -----:|
-| `Théme 2`       | right-aligned | $1600 |
-| `Théme 3`      | centered      |   $12 |
-| `Théme 4`| are neat      |    $1 |
-| `Théme 5`| are neat      |    $1 |
+| Thème 2       | right-aligned | $1600 |
+| Thème 3      | centered      |   $12 |
+| Thème 4      | are neat      |    $1 |
+| Thème 5 | are neat      |    $1 |
 | `Théme 6`| are neat      |    $1 |
 | `Théme 7`| are neat      |    $1 |
 | `Théme 8`| are neat      |    $1 |
