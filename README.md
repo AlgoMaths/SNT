@@ -5,6 +5,10 @@
 <p align="center"> 
 <img src="https://github.com/AlgoMaths/SNT/blob/main/SNT_logo.png" alt="SNT" width="300"> 
 </p>
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
