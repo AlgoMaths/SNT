@@ -12,14 +12,14 @@
 
 <h2 align="center" style="font-size:40px"> Éléments du programme </h2> 
 
-| Thème 1       | `Informatique et numérique`| 2 semaines |
+| Thème #1       | `Informatique et numérique`| 2 semaines |
 | ------------- |:-------------:| -----:|
-| Thème 2 | `Informatique et numérique` | 3 semaines |
-| Thème 3 | `Informatique et numérique` | 3 semaines |
-| Thème 4 | `Informatique et numérique` | 3 semaines |
-| Thème 5 | `Informatique et numérique` | 3 semaines |
-| Thème 6 | `Informatique et numérique` | 3 semaines |
-| Thème 7 | `Informatique et numérique` | 3 semaines |
-| Thème 8 | `Informatique et numérique` | 3 semaines |     
+| Thème #2 | `Informatique et numérique` | 3 semaines |
+| Thème #3 | `Informatique et numérique` | 3 semaines |
+| Thème #4 | `Informatique et numérique` | 3 semaines |
+| Thème #5 | `Informatique et numérique` | 3 semaines |
+| Thème #6 | `Informatique et numérique` | 3 semaines |
+| Thème #7 | `Informatique et numérique` | 3 semaines |
+| Thème #8 | `Informatique et numérique` | 3 semaines |     
 
 
