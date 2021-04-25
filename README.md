@@ -1,2 +1,2 @@
 # SNT
-![alt text](https://github.com/AlgoMaths/SNT/SNT_logo.png 
+![alt text](https://github.com/AlgoMaths/SNT/SNT_logo.png)
