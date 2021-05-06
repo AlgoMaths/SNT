@@ -66,3 +66,7 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ee6W1ODvFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![voir](https://img.youtube.com/vi/U1KiC0AXhHg/maxresdefault.jpg)](https://youtu.be/U1KiC0AXhHg)
+
+
+
