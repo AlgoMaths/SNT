@@ -51,7 +51,7 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 
 * On utilisera aussi le site de France-IOI; http://www.france-ioi.org/ pour s'entraîner et progresser rapidement en programmation et en algorithmique.
 * Tous les élèves de seconde participeront au concours Castor Informatique puis au concours Algoréa; https://castor-informatique.fr/.
-* Pour programmer en Python, on utilisera au choix un IDE en ligne comme www.replit.com 
+* Pour programmer en Python, on utilisera au choix un IDE en ligne comme www.replit.com ou https://console.basthon.fr/
 
 
 ## **4. Les vidéos**
@@ -67,8 +67,6 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 |  #7 | `La photographie numérique` | https://youtu.be/CtwuQynmzIA | https://youtu.be/UnNPNc-F9ks  |   
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ee6W1ODvFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[![voir](https://img.youtube.com/vi/U1KiC0AXhHg/maxresdefault.jpg)](https://youtu.be/U1KiC0AXhHg)
 
 
 
