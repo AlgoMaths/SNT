@@ -46,7 +46,8 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 
 ## **3. Les outils**
 
-* Pour la rentrée 2022/2023, les élèves du Grand Lycée franco-libanais de Beyrouth, utiliseront l'excellent ouvrage de la collection 3.0 de chez Bordas. On utilisera le support papier mais aussi la version numérique; https://fr.calameo.com/read/004956979deb4ae43d10b.
+* Pour la rentrée 2022/2023, les élèves du Grand Lycée franco-libanais de Beyrouth, utiliseront l'excellent ouvrage de la collection 3.0 de chez Bordas. On utilisera la version numérique; https://fr.calameo.com/read/004956979deb4ae43d10b. On utilisera également le livre numérique de la collection LLS https://fr.calameo.com/read/000596729eb2a8fb4dce5 ![image](https://user-images.githubusercontent.com/74757842/182460217-36eef0de-5a65-4add-8ef1-f16c1050c37f.png)
+
 * On utilisera aussi le site de France-IOI; http://www.france-ioi.org/ pour s'entraîner et progresser rapidement en programmation et en algorithmique.
 * Tous les élèves de seconde participeront au concours Castor Informatique puis au concours Algoréa; https://castor-informatique.fr/.
 * Pour programmer en Python, on utilisera au choix un IDE en ligne comme www.replit.com 
