@@ -26,23 +26,23 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 
 ## **2. Progression**
 
-| Séquence  | Titre | Contenus |
-| :-------------: |:-------------:| :-----: |
-|  1 | `Informatique et numérique` | 1. Repères historiques - 2. Machines & sytèmes - 3. Les algorithmes - 4. Programmation et le langage Python |
-|  2 | `Les réseaux sociaux 1/2` | 1. Repères historiques - 2. Les différents réseaux sociaux  - 3. Le petit monde |
-|  3 | `Internet 1/2` | 1. Repères historiques - 2. Protocole TCP/IP - 3. Le principe du routage |
-|  4 | `Les données structurées 1/2` | 1. Repères historiques - 2. Les différents types de données structurées - 3. Le traitement des données |
-|  5 | `Le web 1/2` | 1. Repères historiques - 2. Les URL - 3. Le langage HTML et CSS |
-|  6 | `La photographie numérique 1/2` | 1. Repères historiques - 2. Les images et le capteur - 3. Métadonnées EXIF |
-|  7 | `Localisation & cartographie 1/2` | 1. Repères historiques - 2. le GPS et cartes numériques - 3. Le protocole NMEA 0183 |
-|  8 | `Les objets connectés 1/2` | 1. Repères historiques - 2. Systèmes informatiques embarqués - 3. Interface homme-machine |
-|  9 | `Les réseaux sociaux 2/2` | 1. Introduction aux graphes - 2. Identité numérique  - 3. Cyberviolence |
-| 10 | `Internet 2/2` | 1. Le serveur DNS - 2. Le pair to pair  - 3. La neutralité du net |
-| 11 | `Les données structurées 2/2` | 1. Métadonnées - 2. Données dans le cloud - 3. Calculs sur plusieurs tables |
-| 12 | `Le web 2/2` | 1. Modèle client/serveur - 2. Les requétes HTTP - 3. Les serveurs DNS|
-| 13 | `Localisation & cartographie 2/2` | 1. Le module Folium - 2. Calculs d'itinéraires - 3. Confidentialité |
-| 14 | `La photographie numérique 2/2` | 1. Traitement d'image - 2. Algorithmes dans les appareils photo numériques |
-| 15 | `Les objets connectés 2/2` | 1. Les actionneurs et capteurs - 2. Commande et acquisition de données - 3. Algorithmes et programmes |
+| Séquence  | Titre | Contenus | Nbre de semaine |
+| :-------------: |:-------------:| :-----: | :-----: |
+|  1 | `Informatique et numérique` | 1. Repères historiques - 2. Machines & sytèmes - 3. Les algorithmes - 4. Programmation et le langage Python | 2 |
+|  2 | `Les réseaux sociaux 1/2` | 1. Repères historiques - 2. Les différents réseaux sociaux  - 3. Le petit monde | 2 |
+|  3 | `Internet 1/2` | 1. Repères historiques - 2. Protocole TCP/IP - 3. Le principe du routage | 2 |
+|  4 | `Les données structurées 1/2` | 1. Repères historiques - 2. Les différents types de données structurées - 3. Le traitement des données | 2 |
+|  5 | `Le web 1/2` | 1. Repères historiques - 2. Les URL - 3. Le langage HTML et CSS | 2 |
+|  6 | `La photographie numérique 1/2` | 1. Repères historiques - 2. Les images et le capteur - 3. Métadonnées EXIF | 2 |
+|  7 | `Localisation & cartographie 1/2` | 1. Repères historiques - 2. le GPS et cartes numériques - 3. Le protocole NMEA 0183 | 2 |
+|  8 | `Les objets connectés 1/2` | 1. Repères historiques - 2. Systèmes informatiques embarqués - 3. Interface homme-machine | 2 |
+|  9 | `Les réseaux sociaux 2/2` | 1. Introduction aux graphes - 2. Identité numérique  - 3. Cyberviolence | 2 |
+| 10 | `Internet 2/2` | 1. Le serveur DNS - 2. Le pair to pair  - 3. La neutralité du net | 2 |
+| 11 | `Les données structurées 2/2` | 1. Métadonnées - 2. Données dans le cloud - 3. Calculs sur plusieurs tables | 2 |
+| 12 | `Le web 2/2` | 1. Modèle client/serveur - 2. Les requétes HTTP - 3. Les serveurs DNS| 2 |
+| 13 | `Localisation & cartographie 2/2` | 1. Le module Folium - 2. Calculs d'itinéraires - 3. Confidentialité | 2 |
+| 14 | `La photographie numérique 2/2` | 1. Traitement d'image - 2. Algorithmes dans les appareils photo numériques | 2 |
+| 15 | `Les objets connectés 2/2` | 1. Les actionneurs et capteurs - 2. Commande et acquisition de données - 3. Algorithmes et programmes | 2 |
 
 ## **3. Les outils**
 
