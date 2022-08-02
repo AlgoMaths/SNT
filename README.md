@@ -26,7 +26,7 @@ Les `repères historiques`, `l'informatique` et `les langages de programmation` 
 
 ## **2. Progression**
 
-| Séquence  | Titre | Contenus | Nbre de semaine |
+| Séquence  | Titre | Contenus | Nbre de semaines |
 | :-------------: |:-------------:| :-----: | :-----: |
 |  1 | `Informatique et numérique` | 1. Repères historiques - 2. Machines & sytèmes - 3. Les algorithmes - 4. Programmation et le langage Python | 2 |
 |  2 | `Les réseaux sociaux 1/2` | 1. Repères historiques - 2. Les différents réseaux sociaux  - 3. Le petit monde | 2 |
